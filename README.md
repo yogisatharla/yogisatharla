@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S.Yogeeswar</h1>
-<h3 align="center">A passionate frontend developeI'm a Computer Science student passionate about Artificial Intelligence, Full Stack Development, and Prompt Security. I enjoy building real-world software, experimenting with AI tools, and continuously improving my development skills through projects and hackathons.r from India</h3>
+<h3 align="center">A passionate frontend developer I'm a Computer Science student passionate about Artificial Intelligence, Full Stack Development, and Prompt Security. I enjoy building real-world software, experimenting with AI tools, and continuously improving my development skills through projects and hackathons from India</h3>
 
 - 🌱 I’m currently learning **Python, React, Docker, AI Agents, LangChain and System Design**
 
